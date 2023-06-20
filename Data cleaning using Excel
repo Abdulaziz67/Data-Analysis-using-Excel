@@ -1,6 +1,0 @@
-I have separated the data into two data sheets so I can use them clearly 
-I named them 'customer details' and 'cutomer evaluation'
-I keep the ID column in both sheets so I can use it later for joining
-I use 'remove duplicate' but I found no duplicated data to be removed
-I add Filter to all colums so I can customize them later
-I replaced the class 'Eco' to 'Economy' using Substitue Fromula [=SUBSTITUTE(F2:F25977;"Eco";"Economy")]
