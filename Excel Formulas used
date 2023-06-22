@@ -1,0 +1,3 @@
+fx =SUBSTITUTE(F2:F25977;"Eco";"Economy")
+
+fx =PROPER(E2:E25977)
