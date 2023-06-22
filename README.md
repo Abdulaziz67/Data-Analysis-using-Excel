@@ -1,5 +1,5 @@
 # Airline Customer Satisfaction
-## In this repository I will write my project in steps that shows my undrestanding of data analysis.
+## In this repository I will write my project in steps that shows my undrestanding of data analysis using Excel.
 
 ### This Excel sheet contains a big data of 25977 Rows. 
 
