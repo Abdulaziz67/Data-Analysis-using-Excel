@@ -1,3 +1,5 @@
-fx =SUBSTITUTE(F2:F25977;"Eco";"Economy")
+fx=SUBSTITUTE(F2:F25977;"Eco";"Economy")
 
-fx =PROPER(E2:E25977)
+fx=PROPER(E2:E25977)
+
+fx=TRIM(C2:C25977)
